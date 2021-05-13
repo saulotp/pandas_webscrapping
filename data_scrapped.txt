@@ -1,0 +1,42 @@
+[                Location  Total cases New cases (1 day*)  New cases (last 60 days)  Cases per 1M people   Deaths
+0              Worldwide    156077747            No data                       NaN                20072  3256034
+1          United States     32713675            No data                       NaN                99266   581056
+2                  India     23703665             362727                       NaN                17422   258317
+3                 Brazil     15359397              76692                       NaN                72677   428034
+4                 France      5728090            No data                       NaN                85397   105850
+5                 Turkey      4977982            No data                       NaN                59864    42187
+6                 Russia      4863514            No data                       NaN                33143   112622
+7         United Kingdom      4441975               2284                       NaN                66861   127640
+8                  Italy      4131078               7848                       NaN                68573   123544
+9                  Spain      3592751               6418                       NaN                76279    79208
+10               Germany      3564494               6590                       NaN                42869    85451
+11             Argentina      3215572              24475                       NaN                71555    68807
+12              Colombia      3048719              16993                       NaN                61720    79261
+13                Poland      2842339               4159                       NaN                74060    70679
+14                  Iran      2610018            No data                       NaN                31321    73906
+15                Mexico      2371483               3090                       NaN                18735   219590
+16               Ukraine      2185088               4659                       NaN                52175    48908
+17                  Peru      1810998            No data                       NaN                56362    62126
+18             Indonesia      1697305            No data                       NaN                 6359    46496
+19               Czechia      1641120            No data                       NaN               153463    29521
+20          South Africa      1590370            No data                       NaN                27059    54620
+21           Netherlands      1577754               6356                       NaN                90410    17399
+22                Canada      1309336               6189                       NaN                34475    24802
+23                 Chile      1260448               3902                       NaN                65967    27384
+24           Philippines      1118359               4812                       NaN                10309    18714
+25                  Iraq      1098187            No data                       NaN                28067    15673
+26               Romania      1062527            No data                       NaN                54755    28710
+27                Sweden      1027934               6330                       NaN                99476    14267
+28               Belgium      1007264            No data                       NaN                87402    24444
+29              Pakistan       870703               3265                       NaN                 3973    19336
+30              Portugal       840493                485                       NaN                81787    16998
+31                Israel       838828            No data                       NaN                91376     6374
+32               Hungary       793784                905                       NaN                81224    28888
+33            Bangladesh       769160            No data                       NaN                 4568    11796
+34                Jordan       717930            No data                       NaN                67415     9014
+35                Serbia       697241            No data                       NaN               100124     6499
+36           Switzerland       669067            No data                       NaN                77920    10110
+37                 Japan       660884               7521                       NaN                 5247    11148
+38               Austria       633960               1194                       NaN                71211    10428
+39               Lebanon       531234            No data                       NaN                77831     7415
+40  United Arab Emirates       530944            No data                       NaN                53683     1604]
